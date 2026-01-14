@@ -5,6 +5,7 @@ The program reads student details from a file, validates the data, computes resu
 The system is designed using modular programming, structures, and file handling, as part of  academic coursework.
 The commands to run the program is :
 gcc main.c -o output
+
 ./output
 
 The final ouput is displayed on the terminal 
